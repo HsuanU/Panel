@@ -7,7 +7,7 @@ Notes on learning panel data analysis
  
  3 Utility Functions 
  
- 4 Regression Diagnostics /<br>
+ 4 Regression Diagnostics <br>
  5 VAR and Error Correction Models \<br>
  6 Markov Chain Monte Carlo Models 
  7 Limited Dependent Variable Models 
