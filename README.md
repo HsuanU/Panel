@@ -1,7 +1,7 @@
 # Panel
 Notes on learning panel data analysis
 
-## Econometrics Toolbox: by James P. LeSage (http://www.spatial-econometrics.com/)
+## Econometrics Toolbox: by James P. LeSage <br>  (http://www.spatial-econometrics.com/)
 ### Applied Econometrics using MATLAB
  2 Regression using MATLAB <br> 
  3 Utility Functions <br> 
