@@ -44,4 +44,7 @@ Notes on learning panel data analysis
  12 PCA, factor and cluster analysis <br>
  13 Time series analysis <br>
  
-### 2. Panel
+
+### 2. Advanced Econometrics and STATA, by Qiang Chen (Cn)
+
+### 3. Panel
