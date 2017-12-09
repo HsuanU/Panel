@@ -31,19 +31,17 @@ Notes on learning panel data analysis
 
 ## S) STATA
 ### 1. Statistics with STATA, by Lawrence C. Hamilton
- 2 Data management
- 3 Graphs
- 4 Summary statistics and tables
- 5 ANOVA and other comparison methods
- 6 Linear Regression
- 7 Diagnostics
- 8 Fitting curves
- 9 Robust regression
- 10 Logistic regression
- 11 Survival and event-count models
- 12 PCA, factor and cluster analysis
- 13 Time series analysis
+ 2 Data management <br>
+ 3 Graphs <br>
+ 4 Summary statistics and tables <br>
+ 5 ANOVA and other comparison methods <br>
+ 6 Linear Regression <br>
+ 7 Diagnostics <br>
+ 8 Fitting curves <br>
+ 9 Robust regression <br>
+ 10 Logistic regression <br>
+ 11 Survival and event-count models <br>
+ 12 PCA, factor and cluster analysis <br>
+ 13 Time series analysis <br>
  
 ### 2. Panel
-
- 
