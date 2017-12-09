@@ -30,7 +30,7 @@ Notes on learning panel data analysis
  7 Bayesian Locally linear spatial models 
 
 ## S) STATA
-### 1. Statistics with STATA, by Lawrence C. Hamilton
+### 1. Statistics with STATA 8, by Lawrence C. Hamilton
  2 Data management <br>
  3 Graphs <br>
  4 Summary statistics and tables <br>
