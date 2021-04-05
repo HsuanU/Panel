@@ -1,0 +1,18 @@
+Short panel: T>n
+
+- encode IND, gen (INDVAR) % If the individual variable is character, generate the corresponding integers
+- xtset INDVAR TIMEVAR     % Define the individual and time variables
+
+% Some summary statistics
+- xtdes
+- xtsum
+- xttab VAR
+- xtline VAR
+- xtline VAR1 VAR2 VAR3, overlay
+
+% Pooled regression
+- reg Y X1 X2 X3, vec (cluster IND) 
+
+% fixed effects model
+- xtreg Y X1 X2 X3, fe r    % within, "r" = "vec (cluster IND)"
+- reg  Y X1 X2 X3 i.IND, r  % LSDV
